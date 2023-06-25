@@ -111,7 +111,6 @@ trio-websocket==0.9.2
 TwoCaptcha==0.0.1
 typeguard==2.13.3
 typing_extensions==4.5.0
-undetected-chromedriver==3.1.7
 uritemplate==3.0.1
 utils==1.0.1
 visions==0.7.5
