@@ -77,7 +77,6 @@ protobuf==3.19.1
 py4j==0.10.9.7
 pyasn1-modules==0.2.8
 pycosat==0.6.3
-pycurl==7.44.1
 pydantic==1.10.5
 PyDispatcher==2.0.5
 pyinstaller==5.8.0
