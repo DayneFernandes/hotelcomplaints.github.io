@@ -10,7 +10,6 @@ appdirs==1.4.4
 astunparse==1.6.3
 async-generator==1.10
 atomicwrites==1.4.0
-black==19.
 brotlipy==0.7.0
 certifi==2021.10.8
 comtypes==1.1.10
