@@ -1,4 +1,4 @@
-from app import app  # Replace 'app' with the actual name of your Flask application object
+from main import app  # Replace 'app' with the actual name of your Flask application object
 
 if __name__ == "__main__":
     # Create an instance of the Gunicorn application
