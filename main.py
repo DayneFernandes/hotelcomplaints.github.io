@@ -513,13 +513,8 @@ def is_valid_staff(username, password):
     return False
 
 
-
-if __name__ == '__main__':
-    app.run()
-
-
-if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=3000)
-
-
-
+if __name__ == "__main__":
+    import os
+    host = os.environ.get("HOST", "0.0.0.0")
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host=host, port=port)
